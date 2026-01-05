@@ -1,5 +1,5 @@
 # **LKProxyes**  
-**Gotta Catch 'Em All!**  
+ 
 por **Cerol404**  
 
 ---
